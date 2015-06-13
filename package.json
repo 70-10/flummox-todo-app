@@ -19,13 +19,8 @@
   "homepage": "https://github.com/70-10/flummox-todo-app#readme",
   "dependencies": {
     "flummox": "^3.5.2",
-    "flux": "^2.0.3",
-    "jsonp-client": "^1.0.1",
-    "keymirror": "^0.1.1",
-    "mongoose": "^4.0.5",
     "react": "^0.13.3",
-    "react-bootstrap": "^0.23.2",
-    "request-promise": "^0.4.2"
+    "react-bootstrap": "^0.23.2"
   },
   "devDependencies": {
     "babel": "^5.5.4",
