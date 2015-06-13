@@ -10,7 +10,7 @@ export default class Flux extends Flummox {
   constructor() {
     super();
 
-  this.createActions(TodoConstants.TODO, Actions);
-  this.createStore(TodoConstants.TODO, TodoStore, this);
+    this.createActions(TodoConstants.TODO, Actions);
+    this.createStore(TodoConstants.TODO, TodoStore, this);
   }
 }

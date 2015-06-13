@@ -71,7 +71,6 @@ export default class TodoStore extends Store {
       }
     }
 
-    // emit change event
     this.setState({ todos });
   }
 

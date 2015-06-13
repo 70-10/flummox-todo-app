@@ -9,7 +9,6 @@ import App from "./components/App.jsx";
 let flux = new Flux();
 
 React.render(
-  // <App flux={flux} />,
   <FluxComponent flux={flux}>
     <App />
   </FluxComponent>,
